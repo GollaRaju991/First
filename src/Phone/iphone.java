@@ -61,5 +61,21 @@ public class iphone {
 			driver.close();
 			
 			}
+@Test
+	
+	public void test()
+	{
+		System.out.println("Hello World");
+		System.out.println("Hello World2");
+		System.out.println("Hello World3");
+	}
+@Test
+
+public void test2()
+{
+	System.out.println("Hello World4");
+	System.out.println("Hello World5");
+	System.out.println("Hello World6");
+}
 			
 }
